@@ -1,6 +1,6 @@
 #some super simple code to make a graph containing a map with pie charts
-#you may need to add a path for infile.csv
-infile<-read.csv("C:/programs/r/map_with_pie_charts/infile.csv")
+#you will need to change the path for infile.csv
+infile<-read.csv("C:/programs/r/map_with_pie_charts/map_with_pie_charts_in_R/infile.csv")
 head(infile)
 
 #using maps, mapdata and mapplots
